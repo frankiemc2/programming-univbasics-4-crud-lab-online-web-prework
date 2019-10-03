@@ -34,8 +34,8 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  index_number = 1
-array[1]
+  index_number = 2
+array[2]
 end
 
 def retrieve_first_element_from_array(array)
@@ -52,8 +52,8 @@ end
 def update_element_from_index(array, index_number, element)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 index_number = 4
-element=together
-array[4]= together
+element="together"
+array[4]= "together"
 
 
 end
